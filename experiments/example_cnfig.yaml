@@ -1,0 +1,10 @@
+flows_root: "data/flows"
+batch_size: 8
+epochs: 20
+lr: 1e-4
+cycles: 4
+cycle_len: 15
+embedding_dim: 4096
+margin: 0.3
+ckpt_dir: "checkpoints"
+log_dir: "logs"
