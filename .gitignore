@@ -1,0 +1,33 @@
+_pycache_/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+myenv/
+.egogait_env/
+.egogait_venv/
+
+# Data and checkpoints
+data/videos/
+data/flows/
+checkpoints/
+*.pt
+*.pth
+*.pth.tar
+
+# Jupyter and temp
+.ipynb_checkpoints/
+*.log
+*.tmp
+.DS_Store
+
+# System files
+Thumbs.db
+
+
